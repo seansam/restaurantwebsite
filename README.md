@@ -8,3 +8,7 @@ I created this site with a mobile first approach.
 The images in the menu section alternate to provide visual spacing.
 
 Fonts are integrated without calling on Google Webfonts.
+
+To see the code in browser view click the following link:
+
+http://seansam.com/restaurantwebsite/index.html
